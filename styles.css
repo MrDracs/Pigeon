@@ -114,36 +114,36 @@ body.rgb-active {
 /* Media Queries for Responsiveness */
 @media (max-width: 600px) {
     #pigeon {
-        font-size: 15vw; /* Adjust size for smaller screens */
+        font-size: 4vw; /* Adjust size for smaller screens */
     }
 
     #click-here {
-        font-size: 8vw; /* Adjust size for smaller screens */
+        font-size: 2vw; /* Adjust size for smaller screens */
     }
 
     #message {
-        font-size: 10vw; /* Adjust size for smaller screens */
+        font-size: 3vw; /* Adjust size for smaller screens */
     }
 
     #btn {
-        font-size: 6vw; /* Adjust size for smaller screens */
+        font-size: 2vw; /* Adjust size for smaller screens */
     }
 }
 
 @media (max-width: 400px) {
     #pigeon {
-        font-size: 20vw; /* Larger adjustment for very small screens */
+        font-size: 4vw; /* Larger adjustment for very small screens */
     }
 
     #click-here {
-        font-size: 10vw; /* Larger adjustment for very small screens */
+        font-size: 2vw; /* Larger adjustment for very small screens */
     }
 
     #message {
-        font-size: 12vw; /* Larger adjustment for very small screens */
+        font-size: 4vw; /* Larger adjustment for very small screens */
     }
 
     #btn {
-        font-size: 7vw; /* Larger adjustment for very small screens */
+        font-size: 3vw; /* Larger adjustment for very small screens */
     }
 }
